@@ -5,7 +5,7 @@ import { TextInput } from "../components/ui/TextInput";
 import { RecipesList } from "../components/RecipesList";
 
 export const RecipeListPage = ({ setRecipe }) => {
-  const greeting = "Recipe checker";
+  const greeting = "choose your recipe";
   const [selectedRecipeList, setSelectedRecipeList] = useState(data.hits);
 
   const handleChange = (event) => {
