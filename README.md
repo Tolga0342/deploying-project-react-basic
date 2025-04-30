@@ -13,11 +13,8 @@ Recipe App
 
 #features:
 - Responsive lay-out
-- page with lists of recipes
-- page with details of single recipe
-- search functionality
-- click interaction
-- return button
+- page with lists of recipes, search bar and click interaction
+- page with details of single recipe and return button 
 - applied react concepts: JSX, function components, props, conditional, states, loops and handling events 
 
 #local installation:
