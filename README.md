@@ -15,8 +15,8 @@ Recipe App
 - Responsive lay-out
 - page with lists of recipes
 - page with details of single recipe
-- searchfunction
-- clickfunction
+- search functionality
+- click interaction
 - return button
 - applied react concepts: JSX, function components, props, conditional, states, loops and handling events 
 
