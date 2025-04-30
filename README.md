@@ -21,13 +21,11 @@ Recipe App
 - applied react concepts: JSX, function components, props, conditional, states, loops and handling events 
 
 #local installation:
-1. copy the repository link
-2. open (windows) terminal
-3. choose your directory to clone repository, for example --> C:\Users\Gebruiker\Desktop\
-4. enter following command -->  git clone https://github.com/Tolga0342/deploying-project-react-basic.git
-5. navigate to the directory where cloned repository is, for example --> C:\Users\Gebruiker\Desktop\deploying-project-react-basic
-6. enter following command to open VScode --> code .
-7. open the terminal within VS code 
-8. enter following command --> npm install
-9. enter following command --> npm run dev
-10. click on the localhost URL in the terminal or copy-paste localhost URL in the browser to view project 
+1. copy the repository link and open (windows) terminal
+2. choose your directory to clone repository, for example --> C:\Users\Gebruiker\Desktop\
+3. enter following command --> git clone https://github.com/Tolga0342/deploying-project-react-basic.git
+4. navigate to the directory where repository is, for example --> C:\Users\Gebruiker\Desktop\deploying-project-react-basic
+5. enter following command in (windows) terminal to open VScode --> code .
+6. open the terminal within VS code, enter following command --> npm install and thereafter enter following command --> npm run dev
+7. click on the localhost URL in the terminal or copy-paste localhost URL in the browser to view project
+
