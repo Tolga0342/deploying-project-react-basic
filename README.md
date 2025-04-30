@@ -1,7 +1,7 @@
 #project: 
 Recipe App
 
-#description: Responsive recipe app created with HTML, Javascript and React + Vite. The app is styled using Chakra UI. For this project, I implemented search functionality, click interactions, return button to make the app interactive. The app consists of two pages: one screen displaying an overview of available recipes and another showing the details of a single recipe 
+#description: Responsive recipe app created with HTML, Javascript and React + Vite. The app is styled using Chakra UI. For this project, I implemented search functionality, click interactions and return button to make the app interactive. The app consists of two pages: one screen displaying an overview of available recipes and another showing the details of a single recipe 
 
 #live-demo: https://project-basic-recipechecker.netlify.app/
 
