@@ -30,4 +30,4 @@ Recipe App
 7. open the terminal within VS code 
 8. enter following command --> npm install
 9. enter following command --> npm run dev
-10. click on the localhost URL in the terminal or enter shown localhost URL in the browser to view project 
+10. click on the localhost URL in the terminal or copy-paste localhost URL in the browser to view project 
