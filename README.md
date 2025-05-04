@@ -1,23 +1,31 @@
-#project: 
+# project
+
 Recipe App
 
-#description: Responsive recipe app created with HTML, Javascript and React + Vite. The app is styled using Chakra UI. For this project, I implemented search functionality, click interactions and return button to make the app interactive. The app consists of two pages: one screen displaying an overview of available recipes and another showing the details of a single recipe 
+# live-demo
 
-#live-demo: https://project-basic-recipechecker.netlify.app/
+https://project-basic-recipechecker.netlify.app/
 
-#technologies used:
+# description
+
+Responsive recipe app created with HTML, Javascript and React + Vite. The app is styled using Chakra UI. For this project, I implemented search functionality, click interactions and return button to make the app interactive. The app consists of two pages: one screen displaying an overview of available recipes and another showing the details of a single recipe 
+
+# technologies used
+
 - HTML
 - Javascript
 - React + Vite
 - Chakra UI
 
-#features:
+# features
+
 - Responsive lay-out
 - page with lists of recipes, search bar and click interaction
 - page with details of single recipe and return button 
 - applied react concepts: JSX, function components, props, conditional, states, loops and handling events 
 
-#local installation:
+# local installation
+
 1. copy the repository link and open (windows) terminal
 2. choose your directory to clone repository, for example --> C:\Users\Gebruiker\Desktop\
 3. enter following command --> git clone https://github.com/Tolga0342/deploying-project-react-basic.git
